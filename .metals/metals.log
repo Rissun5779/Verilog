@@ -1,0 +1,2 @@
+2026.01.16 13:52:54 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.01.16 13:52:54 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\MyChiselProject\src\main\scala\gcd\GCD.scala. Using presentation compiler with project's scala-library version: 3.3.6
