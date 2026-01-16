@@ -1,0 +1,39 @@
+[debug] [zinc] IncrementalCompile -----------
+[debug] IncrementalCompile.incrementalCompile
+[debug] previous = Stamps for: 1 products, 1 sources, 1 libraries
+[debug] current source = Set(${BASE}/hello.scala)
+[debug] > initialChanges = InitialChanges(Changes(added = Set(), removed = Set(), changed = Set(${BASE}/hello.scala), unmodified = ...),Set(),Set(),API Changes: Set())
+[debug] 
+[debug] Initial source changes:
+[debug] 	removed: Set()
+[debug] 	added: Set()
+[debug] 	modified: Set(${BASE}/hello.scala)
+[debug] Invalidated products: Set()
+[debug] External API changes: API Changes: Set()
+[debug] Modified binary dependencies: Set()
+[debug] Initial directly invalidated classes: Set(Hello)
+[debug] Sources indirectly invalidated by:
+[debug] 	product: Set()
+[debug] 	binary dep: Set()
+[debug] 	external source: Set()
+[debug] all 1 sources are invalidated
+[debug] Initial set of included nodes: Hello
+[debug] Recompiling all sources: number of invalidated sources > 50.0% of all sources
+[debug] compilation cycle 1
+[info] compiling 1 Scala source to /home/dev/Scala/target/scala-2.12/classes ...
+[debug] Getting org.scala-sbt:compiler-bridge_2.12:1.4.4:compile for Scala 2.12.12
+[debug] [zinc] Running cached compiler 4d419ac9 for Scala compiler version 2.12.12
+[debug] [zinc] The Scala compiler is invoked with:
+[debug] 	-Xsource:2.11
+[debug] 	-language:reflectiveCalls
+[debug] 	-deprecation
+[debug] 	-feature
+[debug] 	-Xcheckinit
+[debug] 	-Xplugin:/home/chisel/.cache/coursier/v1/https/repo1.maven.org/maven2/edu/berkeley/cs/chisel3-plugin_2.12.12/3.4.1/chisel3-plugin_2.12.12-3.4.1.jar
+[debug] 	-Xplugin:/home/chisel/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scalamacros/paradise_2.12.12/2.1.1/paradise_2.12.12-2.1.1.jar
+[debug] 	-bootclasspath
+[debug] 	/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/resources.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/sunrsasign.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/jsse.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/jce.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/charsets.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/jfr.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/classes:/home/chisel/.sbt/boot/scala-2.12.12/lib/scala-library.jar
+[debug] 	-classpath
+[debug] 	/home/dev/Scala/target/scala-2.12/classes:/home/chisel/.cache/coursier/v1/https/repo1.maven.org/maven2/edu/berkeley/cs/chisel3_2.12/3.4.1/chisel3_2.12-3.4.1.jar:/home/chisel/.cache/coursier/v1/https/repo1.maven.org/maven2/edu/berkeley/cs/chisel3-macros_2.12/3.4.1/chisel3-macros_2.12-3.4.1.jar:/home/chisel/.cache/coursier/v1/https/repo1.maven.org/maven2/edu/berkeley/cs/chisel3-core_2.12/3.4.1/chisel3-core_2.12-3.4.1.jar:/home/chisel/.sbt/boot/scala-2.12.12/lib/scala-reflect.jar:/home/chisel/.cache/coursier/v1/https/repo1.maven.org/maven2/com/github/scopt/scopt_2.12/3.7.1/scopt_2.12-3.7.1.jar:/home/chisel/.cache/coursier/v1/https/repo1.maven.org/maven2/edu/berkeley/cs/firrtl_2.12/1.4.1/firrtl_2.12-1.4.1.jar:/home/chisel/.cache/coursier/v1/https/repo1.maven.org/maven2/org/antlr/antlr4-runtime/4.7.1/antlr4-runtime-4.7.1.jar:/home/chisel/.cache/coursier/v1/https/repo1.maven.org/maven2/com/google/protobuf/protobuf-java/3.9.0/protobuf-java-3.9.0.jar:/home/chisel/.cache/coursier/v1/https/repo1.maven.org/maven2/net/jcazevedo/moultingyaml_2.12/0.4.2/moultingyaml_2.12-0.4.2.jar:/home/chisel/.cache/coursier/v1/https/repo1.maven.org/maven2/org/json4s/json4s-native_2.12/3.6.9/json4s-native_2.12-3.6.9.jar:/home/chisel/.cache/coursier/v1/https/repo1.maven.org/maven2/org/apache/commons/commons-text/1.8/commons-text-1.8.jar:/home/chisel/.cache/coursier/v1/https/repo1.maven.org/maven2/com/github/nscala-time/nscala-time_2.12/2.22.0/nscala-time_2.12-2.22.0.jar:/home/chisel/.cache/coursier/v1/https/repo1.maven.org/maven2/org/yaml/snakeyaml/1.26/snakeyaml-1.26.jar:/home/chisel/.cache/coursier/v1/https/repo1.maven.org/maven2/org/json4s/json4s-core_2.12/3.6.9/json4s-core_2.12-3.6.9.jar:/home/chisel/.cache/coursier/v1/https/repo1.maven.org/maven2/org/apache/commons/commons-lang3/3.9/commons-lang3-3.9.jar:/home/chisel/.cache/coursier/v1/https/repo1.maven.org/maven2/joda-time/joda-time/2.10.1/joda-time-2.10.1.jar:/home/chisel/.cache/coursier/v1/https/repo1.maven.org/maven2/org/joda/joda-convert/2.2.0/joda-convert-2.2.0.jar:/home/chisel/.cache/coursier/v1/https/repo1.maven.org/maven2/org/json4s/json4s-ast_2.12/3.6.9/json4s-ast_2.12-3.6.9.jar:/home/chisel/.cache/coursier/v1/https/repo1.maven.org/maven2/org/json4s/json4s-scalap_2.12/3.6.9/json4s-scalap_2.12-3.6.9.jar:/home/chisel/.cache/coursier/v1/https/repo1.maven.org/maven2/com/thoughtworks/paranamer/paranamer/2.8/paranamer-2.8.jar
+[debug] Scala compilation took 3.696682285 s
+[info] done compiling

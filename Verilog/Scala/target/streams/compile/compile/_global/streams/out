@@ -1,0 +1,4 @@
+[error] /home/dev/Scala/hello.scala:1:1: expected class or object definition
+[error] println("Hello, World!")
+[error] ^
+[error] one error found
