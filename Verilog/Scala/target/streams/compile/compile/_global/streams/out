@@ -1,4 +1,5 @@
-[error] /home/dev/Scala/hello.scala:1:1: expected class or object definition
-[error] println("Hello, World!")
-[error] ^
+[error] /home/dev/Scala/for_test.scala:2:7: overriding method main in trait App of type (args: Array[String])Unit;
+[error]  method main needs `override' modifier
+[error]   def main(args: Array[String]): Unit = {
+[error]       ^
 [error] one error found
