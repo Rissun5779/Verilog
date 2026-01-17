@@ -1469,3 +1469,582 @@
 2026.01.17 15:57:36 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
 2026.01.17 15:57:36 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Example01.java. Using fallback presentation compiler.
 2026.01.17 15:57:36 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+1月 17, 2026 3:57:38 下午 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+警告: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "metals/didFocusTextDocument",
+  "params": [
+    "class:/c%3A/Users/USER/Desktop/Verilog/JAVA/Basic/Hello_Java.class"
+  ]
+}
+java.nio.file.FileSystemNotFoundException: Provider "class" not installed
+	at java.base/java.nio.file.Path.of(Path.java:210)
+	at java.base/java.nio.file.Paths.get(Paths.java:95)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionURIMtags.toAbsolutePath(MtagsEnrichments.scala:149)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionStringMtags.toAbsolutePath(MtagsEnrichments.scala:209)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:778)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:775)
+	at scala.meta.internal.metals.WorkspaceLspService.didFocus(WorkspaceLspService.scala:789)
+	at scala.meta.metals.lsp.DelegatingScalaService.didFocus(DelegatingScalaService.scala:42)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:160)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:231)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:198)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:545)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:328)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+2026.01.17 15:57:45 WARN  no build target for: C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java
+2026.01.17 15:57:45 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 15:57:45 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Example01.java. Using fallback presentation compiler.
+2026.01.17 15:57:45 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+1月 17, 2026 3:57:48 下午 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+警告: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "metals/didFocusTextDocument",
+  "params": [
+    "class:/c%3A/Users/USER/Desktop/Verilog/JAVA/Basic/Hello_Java.class"
+  ]
+}
+java.nio.file.FileSystemNotFoundException: Provider "class" not installed
+	at java.base/java.nio.file.Path.of(Path.java:210)
+	at java.base/java.nio.file.Paths.get(Paths.java:95)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionURIMtags.toAbsolutePath(MtagsEnrichments.scala:149)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionStringMtags.toAbsolutePath(MtagsEnrichments.scala:209)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:778)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:775)
+	at scala.meta.internal.metals.WorkspaceLspService.didFocus(WorkspaceLspService.scala:789)
+	at scala.meta.metals.lsp.DelegatingScalaService.didFocus(DelegatingScalaService.scala:42)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:160)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:231)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:198)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:545)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:328)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+2026.01.17 15:57:50 WARN  no build target for: C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java
+2026.01.17 15:57:50 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 15:57:51 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Example01.java. Using fallback presentation compiler.
+2026.01.17 15:57:51 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 15:57:52 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+1月 17, 2026 3:58:12 下午 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+警告: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "metals/didFocusTextDocument",
+  "params": [
+    "class:/c%3A/Users/USER/Desktop/Verilog/JAVA/Basic/Hello_Java.class"
+  ]
+}
+java.nio.file.FileSystemNotFoundException: Provider "class" not installed
+	at java.base/java.nio.file.Path.of(Path.java:210)
+	at java.base/java.nio.file.Paths.get(Paths.java:95)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionURIMtags.toAbsolutePath(MtagsEnrichments.scala:149)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionStringMtags.toAbsolutePath(MtagsEnrichments.scala:209)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:778)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:775)
+	at scala.meta.internal.metals.WorkspaceLspService.didFocus(WorkspaceLspService.scala:789)
+	at scala.meta.metals.lsp.DelegatingScalaService.didFocus(DelegatingScalaService.scala:42)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:160)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:231)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:198)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:545)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:328)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+2026.01.17 16:15:07 WARN  no build target for: C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java
+2026.01.17 16:15:07 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:15:07 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Example01.java. Using fallback presentation compiler.
+2026.01.17 16:15:07 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:15:08 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:15:08 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:15:10 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:15:10 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:15:11 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:15:13 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:15:13 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:15:13 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:15:13 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:15:13 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:15:13 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:15:13 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:15:13 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:15:13 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:15:14 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:15:14 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:15:14 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:15:14 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:15:14 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:15:15 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:15:15 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:15:15 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:15:15 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:15:15 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:15:15 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:15:15 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:15:15 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:15:16 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:15:16 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:15:16 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:15:17 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:15:17 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:15:17 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:15:17 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:15:18 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:15:17 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:15:17 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:15:17 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:15:18 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:15:19 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:15:19 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:15:19 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:15:19 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:15:19 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:15:20 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:15:20 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:15:20 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:15:20 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:15:20 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:15:20 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:15:21 WARN  no build target for: C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java
+2026.01.17 16:15:22 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Example01.java. Using fallback presentation compiler.
+2026.01.17 16:15:22 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:15:26 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:15:26 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:15:26 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:15:26 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:15:26 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:15:26 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:15:27 WARN  no build target for: C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java
+2026.01.17 16:15:26 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Example01.java. Using fallback presentation compiler.
+2026.01.17 16:15:27 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:15:27 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+1月 17, 2026 4:15:27 下午 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 2430
+2026.01.17 16:15:27 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:15:29 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:15:29 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:15:32 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:15:32 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:15:32 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:15:32 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:15:32 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:15:32 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:15:32 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:15:32 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:15:33 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:15:33 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:15:33 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:15:33 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:15:33 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:15:34 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:15:34 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:15:34 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:15:34 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:15:35 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:15:36 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:15:36 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:15:36 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:15:36 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:15:36 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:15:37 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:15:42 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:15:42 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:15:42 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:15:42 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:15:42 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:15:44 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:15:44 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:15:44 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:15:44 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:15:45 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:15:44 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:15:44 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:15:46 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:15:46 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:15:46 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:15:46 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:15:46 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:15:46 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:15:46 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:15:46 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:15:46 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:15:46 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:15:47 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:15:47 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:15:47 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:15:47 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:15:47 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:15:47 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:15:47 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:15:48 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:15:48 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:15:48 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:15:48 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:15:49 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:15:48 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:15:49 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:15:49 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:15:50 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:15:49 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:15:51 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:15:51 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:15:51 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:15:51 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:15:51 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:15:52 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:15:52 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:15:52 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:15:52 WARN  no build target for: C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java
+2026.01.17 16:15:52 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Example01.java. Using fallback presentation compiler.
+2026.01.17 16:15:52 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:15:52 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:15:53 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:15:53 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:15:54 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:15:55 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:15:55 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:15:55 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:15:56 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:15:55 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:15:55 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:15:56 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:15:55 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:15:57 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:15:57 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:15:57 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:15:57 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:15:58 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:16:01 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:16:01 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:16:01 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:16:02 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:16:01 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:16:01 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:16:03 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:16:02 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:16:03 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:16:03 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:16:04 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:16:04 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:16:04 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:16:04 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:16:04 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:16:04 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:16:04 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:16:05 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:16:05 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:16:05 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:16:06 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:16:06 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:16:07 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:16:06 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:16:06 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:16:06 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:16:07 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:16:08 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:16:07 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:16:09 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:16:09 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:16:09 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:16:09 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:16:09 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:16:10 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:16:10 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:16:10 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:16:10 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:16:10 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:16:13 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:16:13 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:16:13 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:16:13 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:16:13 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:16:16 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:16:16 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:16:16 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:16:16 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:16:16 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:16:17 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:16:17 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:16:19 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:16:19 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:16:19 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:16:19 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:16:19 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:16:19 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:16:20 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:16:20 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:16:21 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:16:24 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:16:24 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:16:24 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:16:24 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:16:24 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:16:24 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:16:25 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:16:24 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:16:25 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:16:25 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:16:25 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:16:25 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:16:26 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:16:25 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:16:26 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:16:26 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:16:26 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:16:26 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:16:31 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:16:31 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:16:31 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:16:31 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:16:32 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:16:32 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:16:33 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:16:32 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:16:34 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:16:34 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:16:34 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:16:34 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:16:34 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:16:35 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:16:35 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:16:35 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:16:35 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:16:35 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:16:35 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+1月 17, 2026 4:16:37 下午 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+警告: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "metals/didFocusTextDocument",
+  "params": [
+    "class:/c%3A/Users/USER/Desktop/Verilog/JAVA/Basic/Hello_Java.class"
+  ]
+}
+java.nio.file.FileSystemNotFoundException: Provider "class" not installed
+	at java.base/java.nio.file.Path.of(Path.java:210)
+	at java.base/java.nio.file.Paths.get(Paths.java:95)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionURIMtags.toAbsolutePath(MtagsEnrichments.scala:149)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionStringMtags.toAbsolutePath(MtagsEnrichments.scala:209)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:778)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:775)
+	at scala.meta.internal.metals.WorkspaceLspService.didFocus(WorkspaceLspService.scala:789)
+	at scala.meta.metals.lsp.DelegatingScalaService.didFocus(DelegatingScalaService.scala:42)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:160)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:231)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:198)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:545)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:328)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+2026.01.17 16:16:40 WARN  no build target for: C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java
+2026.01.17 16:16:40 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:16:40 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Example01.java. Using fallback presentation compiler.
+2026.01.17 16:16:40 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:16:40 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:16:40 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:16:41 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:16:41 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:16:41 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:16:41 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:16:41 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:16:41 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:16:41 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:16:41 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:16:41 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:16:42 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:16:42 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:16:42 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:16:42 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:16:43 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:16:43 WARN  no build target for: C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java
+2026.01.17 16:16:43 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Example01.java. Using fallback presentation compiler.
+2026.01.17 16:16:43 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:16:44 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:16:44 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:16:47 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:16:47 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:16:47 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:16:47 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:16:59 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:17:00 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:17:00 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:17:48 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:18:48 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:18:48 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:18:48 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:18:50 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:18:50 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:18:50 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:18:50 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:18:51 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:18:50 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:18:52 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:18:52 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:18:52 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:18:52 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:18:54 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:18:54 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:18:55 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:18:55 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:18:57 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:18:57 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:18:57 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:18:57 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:18:57 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:18:57 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:18:57 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:18:57 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:18:58 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:18:58 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:18:58 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:18:59 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:19:00 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:19:00 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:19:00 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:19:00 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:19:00 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:19:00 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:19:01 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:19:01 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:19:01 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:19:01 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:19:01 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:19:01 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:19:02 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:19:02 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:19:02 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:19:02 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:19:02 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:19:02 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:19:03 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:19:03 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:19:03 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:19:04 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:19:03 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:19:04 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:19:05 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:19:05 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:19:05 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:19:05 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:19:05 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:19:05 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:19:05 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:19:05 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:19:06 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:19:06 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:19:06 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:19:06 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:19:08 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:19:08 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:19:08 WARN  no build target for: C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java
+2026.01.17 16:19:08 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Example01.java. Using fallback presentation compiler.
+2026.01.17 16:19:08 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:19:08 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:19:09 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:19:12 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:19:12 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:19:12 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:19:12 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:19:13 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:19:12 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:19:13 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:19:13 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:19:13 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:19:13 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:19:13 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:19:14 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:19:14 WARN  no build target for: C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java
+2026.01.17 16:19:14 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Example01.java. Using fallback presentation compiler.
+2026.01.17 16:19:14 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:19:14 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:19:14 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:19:16 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:19:16 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:19:16 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:19:17 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:19:17 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:19:17 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:19:22 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:19:22 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:19:22 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:19:23 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:19:22 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:19:22 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:19:23 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:19:24 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:19:24 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:19:25 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:19:25 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:19:25 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:19:25 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:19:26 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:19:26 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:19:26 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:19:26 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:19:27 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:19:27 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:19:27 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:19:28 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:19:35 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:19:35 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:19:35 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:19:37 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:19:37 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:19:43 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:19:43 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:19:43 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:19:46 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:21:18 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:21:18 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:21:18 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:21:19 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:21:19 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:21:19 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:21:19 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:21:19 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:21:19 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:21:20 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:21:20 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:21:20 WARN  no build target for: C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java
+2026.01.17 16:21:20 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Example01.java. Using fallback presentation compiler.
+2026.01.17 16:21:20 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:21:22 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:21:22 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:21:22 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:21:24 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:21:27 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:21:27 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:21:28 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+2026.01.17 16:22:09 INFO  no build target found for C:\Users\USER\Desktop\Verilog\JAVA\Basic\Hello_Java.java. Using fallback presentation compiler.
+1月 17, 2026 4:30:07 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+資訊: Unsupported notification method: $/setTrace
