@@ -28,3 +28,671 @@
 2026.01.16 13:53:33 WARN  Build server is not auto-connectable.
 1月 16, 2026 1:53:40 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
 資訊: Unsupported notification method: $/setTrace
+2026.01.16 14:04:38 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\MyChiselProject\src\main\scala\gcd\GCDGenerator.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:04:38 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\MyChiselProject\src\main\scala\gcd\GCDGenerator.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:04:38 WARN  no build target for: C:\Users\USER\Desktop\Verilog\Verilog\MyChiselProject\src\main\scala\gcd\GCDGenerator.scala
+2026.01.16 14:04:38 WARN  Could not find semantic tokens for: file:///C:/Users/USER/Desktop/Verilog/Verilog/MyChiselProject/src/main/scala/gcd/GCDGenerator.scala
+2026.01.16 14:04:38 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\MyChiselProject\src\main\scala\gcd\GCDGenerator.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:04:38 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\MyChiselProject\src\main\scala\gcd\GCDGenerator.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:04:38 WARN  Could not find semantic tokens for: file:///C:/Users/USER/Desktop/Verilog/Verilog/MyChiselProject/src/main/scala/gcd/GCDGenerator.scala
+2026.01.16 14:04:39 WARN  No build server connected
+2026.01.16 14:04:39 INFO  compiling verilog_d5c0a6989e (5 scala sources)
+2026.01.16 14:04:40 INFO  time: compiled Verilog_d5c0a6989e in 0.87s
+2026.01.16 14:04:40 INFO  compiling verilog_d5c0a6989e (5 scala sources)
+2026.01.16 14:04:41 INFO  time: compiled Verilog_d5c0a6989e in 0.68s
+2026.01.16 14:04:43 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\MyChiselProject\src\main\scala\gcd\GCDGenerator.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:04:43 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\MyChiselProject\src\main\scala\gcd\GCDGenerator.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:04:43 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\MyChiselProject\src\main\scala\gcd\GCDGenerator.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:04:43 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\MyChiselProject\src\main\scala\gcd\GCDGenerator.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:04:49 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\MyChiselProject\src\main\scala\gcd\GCDGenerator.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:04:49 WARN  no build target for: C:\Users\USER\Desktop\Verilog\Verilog\MyChiselProject\src\main\scala\gcd\GCDGenerator.scala
+2026.01.16 14:29:28 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\MyChiselProject\build.sbt. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:29:28 WARN  no build target for: C:\Users\USER\Desktop\Verilog\Verilog\MyChiselProject\build.sbt
+2026.01.16 14:29:28 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\MyChiselProject\build.sbt. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:29:28 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\MyChiselProject\build.sbt. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:29:28 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\MyChiselProject\build.sbt. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:29:28 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\MyChiselProject\build.sbt. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:33:56 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\MyChiselProject\build.sbt. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:34:44 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\hello.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:34:44 WARN  no build target for: C:\Users\USER\Desktop\Verilog\Verilog\Scala\hello.scala
+2026.01.16 14:34:44 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\hello.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:34:44 WARN  Could not find semantic tokens for: file:///C:/Users/USER/Desktop/Verilog/Verilog/Scala/hello.scala
+2026.01.16 14:34:44 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\hello.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:34:44 WARN  Could not find semantic tokens for: file:///C:/Users/USER/Desktop/Verilog/Verilog/Scala/hello.scala
+2026.01.16 14:34:45 WARN  No build server connected
+2026.01.16 14:34:45 INFO  compiling verilog_d5c0a6989e (6 scala sources)
+2026.01.16 14:34:45 INFO  time: compiled Verilog_d5c0a6989e in 0.76s
+2026.01.16 14:34:46 INFO  compiling verilog_d5c0a6989e (6 scala sources)
+2026.01.16 14:34:46 INFO  time: compiled Verilog_d5c0a6989e in 0.64s
+1月 16, 2026 2:34:50 下午 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+資訊: Unsupported notification method: $/setTrace
+2026.01.16 14:34:54 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\hello.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:34:54 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\hello.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:34:54 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\hello.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:34:54 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\hello.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:34:54 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\hello.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:34:54 WARN  Could not find semantic tokens for: file:///C:/Users/USER/Desktop/Verilog/Verilog/Scala/hello.scala
+2026.01.16 14:34:54 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\hello.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:34:54 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\hello.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:34:54 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\hello.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:34:54 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\hello.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:34:55 WARN  Could not find semantic tokens for: file:///C:/Users/USER/Desktop/Verilog/Verilog/Scala/hello.scala
+2026.01.16 14:34:54 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\hello.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:34:56 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\hello.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:34:56 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\hello.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:34:56 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\hello.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:34:56 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\hello.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:34:56 WARN  Could not find semantic tokens for: file:///C:/Users/USER/Desktop/Verilog/Verilog/Scala/hello.scala
+2026.01.16 14:34:56 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\hello.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:34:56 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\hello.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:34:56 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\hello.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:34:56 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\hello.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:34:56 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\hello.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:34:57 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\hello.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:34:57 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\hello.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:34:57 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\hello.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:34:57 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\hello.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:34:57 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\hello.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:34:57 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\hello.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:34:58 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\hello.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:34:58 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\hello.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:34:58 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\hello.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:34:58 WARN  Could not find semantic tokens for: file:///C:/Users/USER/Desktop/Verilog/Verilog/Scala/hello.scala
+2026.01.16 14:34:59 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\hello.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:34:59 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\hello.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:35:00 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\hello.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:35:00 WARN  Could not find semantic tokens for: file:///C:/Users/USER/Desktop/Verilog/Verilog/Scala/hello.scala
+2026.01.16 14:34:59 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\hello.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:35:00 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\hello.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:35:01 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\hello.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:35:01 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\hello.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:35:00 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\hello.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:35:01 WARN  Could not find semantic tokens for: file:///C:/Users/USER/Desktop/Verilog/Verilog/Scala/hello.scala
+2026.01.16 14:35:02 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\hello.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:35:02 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\hello.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:35:02 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\hello.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:35:02 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\hello.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:35:03 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\hello.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:35:08 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\hello.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:35:08 WARN  no build target for: C:\Users\USER\Desktop\Verilog\Verilog\Scala\hello.scala
+2026.01.16 14:35:08 WARN  Could not find semantic tokens for: file:///C:/Users/USER/Desktop/Verilog/Verilog/Scala/hello.scala
+2026.01.16 14:35:32 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\MyChiselProject\build.sbt. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:35:33 WARN  Could not find semantic tokens for: file:///C:/Users/USER/Desktop/Verilog/Verilog/Scala/hello.scala
+2026.01.16 14:39:30 WARN  No build server connected
+2026.01.16 14:39:30 INFO  compiling verilog_d5c0a6989e (6 scala sources)
+2026.01.16 14:39:30 INFO  time: compiled Verilog_d5c0a6989e in 0.59s
+2026.01.16 14:39:30 INFO  compiling verilog_d5c0a6989e (6 scala sources)
+2026.01.16 14:39:32 INFO  time: compiled Verilog_d5c0a6989e in 0.61s
+2026.01.16 14:41:15 WARN  Could not find semantic tokens for: file:///C:/Users/USER/Desktop/Verilog/Verilog/Scala/hello.scala
+2026.01.16 14:41:16 WARN  No build server connected
+2026.01.16 14:41:16 INFO  compiling verilog_d5c0a6989e (7 scala sources)
+2026.01.16 14:41:16 INFO  time: compiled Verilog_d5c0a6989e in 0.61s
+2026.01.16 14:41:16 INFO  compiling verilog_d5c0a6989e (7 scala sources)
+2026.01.16 14:41:17 INFO  time: compiled Verilog_d5c0a6989e in 0.69s
+2026.01.16 14:41:22 WARN  Could not find semantic tokens for: file:///C:/Users/USER/Desktop/Verilog/Verilog/Scala/hello.scala
+2026.01.16 14:41:23 WARN  Could not find semantic tokens for: file:///C:/Users/USER/Desktop/Verilog/Verilog/Scala/hello.scala
+2026.01.16 14:41:23 WARN  Could not find semantic tokens for: file:///C:/Users/USER/Desktop/Verilog/Verilog/Scala/hello.scala
+1月 16, 2026 2:41:34 下午 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 306
+1月 16, 2026 2:41:34 下午 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 309
+1月 16, 2026 2:41:35 下午 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 316
+1月 16, 2026 2:41:37 下午 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 334
+2026.01.16 14:41:55 INFO  compiling verilog_d5c0a6989e (7 scala sources)
+2026.01.16 14:41:55 INFO  time: compiled Verilog_d5c0a6989e in 0.64s
+2026.01.16 14:43:26 INFO  compiling verilog_d5c0a6989e (7 scala sources)
+2026.01.16 14:43:26 INFO  time: compiled Verilog_d5c0a6989e in 0.6s
+2026.01.16 14:45:16 INFO  compiling verilog_d5c0a6989e (7 scala sources)
+2026.01.16 14:45:16 INFO  time: compiled Verilog_d5c0a6989e in 0.55s
+2026.01.16 14:46:44 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:46:44 WARN  no build target for: C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala
+2026.01.16 14:46:44 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:46:44 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:46:44 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:46:45 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:46:45 WARN  No build server connected
+2026.01.16 14:46:45 INFO  compiling verilog_d5c0a6989e (7 scala sources)
+2026.01.16 14:46:46 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:46:45 INFO  time: compiled Verilog_d5c0a6989e in 0.51s
+2026.01.16 14:46:45 INFO  compiling verilog_d5c0a6989e (7 scala sources)
+2026.01.16 14:46:46 INFO  time: compiled Verilog_d5c0a6989e in 0.46s
+2026.01.16 14:46:46 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:46:47 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:46:47 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:46:47 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:46:47 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:46:47 WARN  Could not find semantic tokens for: file:///C:/Users/USER/Desktop/Verilog/Verilog/Scala/for_test.scala
+2026.01.16 14:46:47 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:46:47 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:46:48 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:46:48 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:46:48 WARN  Could not find semantic tokens for: file:///C:/Users/USER/Desktop/Verilog/Verilog/Scala/for_test.scala
+2026.01.16 14:46:53 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:46:53 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:46:53 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:46:53 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:46:59 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:46:59 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:46:59 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:00 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:00 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+1月 16, 2026 2:47:00 下午 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+嚴重: Internal error: java.lang.NullPointerException: Cannot invoke "Object.getClass()" because "this.tok" is null
+java.util.concurrent.CompletionException: java.lang.NullPointerException: Cannot invoke "Object.getClass()" because "this.tok" is null
+	at java.base/java.util.concurrent.CompletableFuture.wrapInCompletionException(CompletableFuture.java:323)
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:376)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:391)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:729)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:531)
+	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2221)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:40)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:38)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:517)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+Caused by: java.lang.NullPointerException: Cannot invoke "Object.getClass()" because "this.tok" is null
+	at scala.meta.internal.parsers.ScalametaParser$XtensionToken.is(ScalametaParser.scala:403)
+	at scala.meta.internal.parsers.ScalametaParser$XtensionToken.isAny(ScalametaParser.scala:406)
+	at scala.meta.internal.parsers.ScalametaParser.scala$meta$internal$parsers$ScalametaParser$$peek(ScalametaParser.scala:419)
+	at scala.meta.internal.parsers.ScalametaParser.withName$1(ScalametaParser.scala:3983)
+	at scala.meta.internal.parsers.ScalametaParser.selfEither(ScalametaParser.scala:3987)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$scala$meta$internal$parsers$ScalametaParser$$templateStatSeq$1(ScalametaParser.scala:4260)
+	at scala.meta.internal.parsers.ScalametaParser.scala$meta$internal$parsers$ScalametaParser$$tryParse(ScalametaParser.scala:205)
+	at scala.meta.internal.parsers.ScalametaParser.scala$meta$internal$parsers$ScalametaParser$$templateStatSeq(ScalametaParser.scala:4260)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$templateBodyOnLeftBrace$2(ScalametaParser.scala:4119)
+	at scala.meta.internal.parsers.ScalametaParser.inBracesOnOpen(ScalametaParser.scala:258)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$templateBodyOnLeftBrace$1(ScalametaParser.scala:4119)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:324)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:379)
+	at scala.meta.internal.parsers.ScalametaParser.templateBodyOnLeftBrace(ScalametaParser.scala:4119)
+	at scala.meta.internal.parsers.ScalametaParser.templateBodyOpt(ScalametaParser.scala:4126)
+	at scala.meta.internal.parsers.ScalametaParser.templateAfterExtends(ScalametaParser.scala:4074)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$template$1(ScalametaParser.scala:4095)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:324)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:379)
+	at scala.meta.internal.parsers.ScalametaParser.template(ScalametaParser.scala:4079)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$templateOpt$3(ScalametaParser.scala:4110)
+	at scala.Option.getOrElse(Option.scala:201)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$templateOpt$1(ScalametaParser.scala:4108)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:324)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:379)
+	at scala.meta.internal.parsers.ScalametaParser.templateOpt(ScalametaParser.scala:4108)
+	at scala.meta.internal.parsers.ScalametaParser.objectDef(ScalametaParser.scala:3831)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$tmplDef$1(ScalametaParser.scala:3757)
+	at scala.meta.internal.parsers.ScalametaParser.autoEndPosOpt(ScalametaParser.scala:387)
+	at scala.meta.internal.parsers.ScalametaParser.autoEndPosOpt(ScalametaParser.scala:391)
+	at scala.meta.internal.parsers.ScalametaParser.tmplDef(ScalametaParser.scala:3753)
+	at scala.meta.internal.parsers.ScalametaParser.topLevelTmplDef(ScalametaParser.scala:3747)
+	at scala.meta.internal.parsers.ScalametaParser$$anonfun$2.applyOrElse(ScalametaParser.scala:4252)
+	at scala.meta.internal.parsers.ScalametaParser$$anonfun$2.applyOrElse(ScalametaParser.scala:4246)
+	at scala.PartialFunction.$anonfun$runWith$1(PartialFunction.scala:242)
+	at scala.PartialFunction.$anonfun$runWith$1$adapted(PartialFunction.scala:241)
+	at scala.meta.internal.parsers.ScalametaParser.statSeqBuf(ScalametaParser.scala:4239)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$statSeq$1(ScalametaParser.scala:4228)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$statSeq$1$adapted(ScalametaParser.scala:4228)
+	at scala.meta.internal.parsers.ScalametaParser.scala$meta$internal$parsers$ScalametaParser$$listBy(ScalametaParser.scala:555)
+	at scala.meta.internal.parsers.ScalametaParser.statSeq(ScalametaParser.scala:4228)
+	at scala.meta.internal.parsers.ScalametaParser.bracelessPackageStats$1(ScalametaParser.scala:4398)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$source$1(ScalametaParser.scala:4401)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:324)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:379)
+	at scala.meta.internal.parsers.ScalametaParser.source(ScalametaParser.scala:4366)
+	at scala.meta.internal.parsers.ScalametaParser.entrypointSource(ScalametaParser.scala:4404)
+	at scala.meta.internal.parsers.ScalametaParser.parseSourceImpl(ScalametaParser.scala:114)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$parseSource$1(ScalametaParser.scala:111)
+	at scala.meta.internal.parsers.ScalametaParser.parseRuleAfterBOF(ScalametaParser.scala:60)
+	at scala.meta.internal.parsers.ScalametaParser.parseRule(ScalametaParser.scala:55)
+	at scala.meta.internal.parsers.ScalametaParser.parseSource(ScalametaParser.scala:111)
+	at scala.meta.parsers.Parse$.$anonfun$parseSource$1(Parse.scala:30)
+	at scala.meta.parsers.Parse$$anon$1.apply(Parse.scala:37)
+	at scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputOffset.safeParse(ScalametaCommonEnrichments.scala:650)
+	at scala.meta.internal.parsing.Trees.$anonfun$parse$2(Trees.scala:224)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.parsing.Trees.parse(Trees.scala:215)
+	at scala.meta.internal.parsing.Trees.didChange(Trees.scala:171)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$parseTreesAndPublishDiags$2(MetalsLspService.scala:615)
+	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.scala:18)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:691)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:500)
+	... 3 more
+
+2026.01.16 14:47:00 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:00 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:00 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+1月 16, 2026 2:47:00 下午 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 485
+2026.01.16 14:47:00 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:00 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+1月 16, 2026 2:47:00 下午 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+嚴重: Internal error: java.lang.NullPointerException: Cannot invoke "Object.getClass()" because "this.tok" is null
+java.util.concurrent.CompletionException: java.lang.NullPointerException: Cannot invoke "Object.getClass()" because "this.tok" is null
+	at java.base/java.util.concurrent.CompletableFuture.wrapInCompletionException(CompletableFuture.java:323)
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:376)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:391)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:729)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:531)
+	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2221)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:40)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:38)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:517)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+Caused by: java.lang.NullPointerException: Cannot invoke "Object.getClass()" because "this.tok" is null
+	at scala.meta.internal.parsers.ScalametaParser$XtensionToken.is(ScalametaParser.scala:403)
+	at scala.meta.internal.parsers.ScalametaParser$XtensionToken.isAny(ScalametaParser.scala:406)
+	at scala.meta.internal.parsers.ScalametaParser.scala$meta$internal$parsers$ScalametaParser$$peek(ScalametaParser.scala:419)
+	at scala.meta.internal.parsers.ScalametaParser.withName$1(ScalametaParser.scala:3983)
+	at scala.meta.internal.parsers.ScalametaParser.selfEither(ScalametaParser.scala:3987)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$scala$meta$internal$parsers$ScalametaParser$$templateStatSeq$1(ScalametaParser.scala:4260)
+	at scala.meta.internal.parsers.ScalametaParser.scala$meta$internal$parsers$ScalametaParser$$tryParse(ScalametaParser.scala:205)
+	at scala.meta.internal.parsers.ScalametaParser.scala$meta$internal$parsers$ScalametaParser$$templateStatSeq(ScalametaParser.scala:4260)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$templateBodyOnLeftBrace$2(ScalametaParser.scala:4119)
+	at scala.meta.internal.parsers.ScalametaParser.inBracesOnOpen(ScalametaParser.scala:258)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$templateBodyOnLeftBrace$1(ScalametaParser.scala:4119)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:324)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:379)
+	at scala.meta.internal.parsers.ScalametaParser.templateBodyOnLeftBrace(ScalametaParser.scala:4119)
+	at scala.meta.internal.parsers.ScalametaParser.templateBodyOpt(ScalametaParser.scala:4126)
+	at scala.meta.internal.parsers.ScalametaParser.templateAfterExtends(ScalametaParser.scala:4074)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$template$1(ScalametaParser.scala:4095)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:324)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:379)
+	at scala.meta.internal.parsers.ScalametaParser.template(ScalametaParser.scala:4079)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$templateOpt$3(ScalametaParser.scala:4110)
+	at scala.Option.getOrElse(Option.scala:201)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$templateOpt$1(ScalametaParser.scala:4108)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:324)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:379)
+	at scala.meta.internal.parsers.ScalametaParser.templateOpt(ScalametaParser.scala:4108)
+	at scala.meta.internal.parsers.ScalametaParser.objectDef(ScalametaParser.scala:3831)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$tmplDef$1(ScalametaParser.scala:3757)
+	at scala.meta.internal.parsers.ScalametaParser.autoEndPosOpt(ScalametaParser.scala:387)
+	at scala.meta.internal.parsers.ScalametaParser.autoEndPosOpt(ScalametaParser.scala:391)
+	at scala.meta.internal.parsers.ScalametaParser.tmplDef(ScalametaParser.scala:3753)
+	at scala.meta.internal.parsers.ScalametaParser.topLevelTmplDef(ScalametaParser.scala:3747)
+	at scala.meta.internal.parsers.ScalametaParser$$anonfun$2.applyOrElse(ScalametaParser.scala:4252)
+	at scala.meta.internal.parsers.ScalametaParser$$anonfun$2.applyOrElse(ScalametaParser.scala:4246)
+	at scala.PartialFunction.$anonfun$runWith$1(PartialFunction.scala:242)
+	at scala.PartialFunction.$anonfun$runWith$1$adapted(PartialFunction.scala:241)
+	at scala.meta.internal.parsers.ScalametaParser.statSeqBuf(ScalametaParser.scala:4239)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$statSeq$1(ScalametaParser.scala:4228)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$statSeq$1$adapted(ScalametaParser.scala:4228)
+	at scala.meta.internal.parsers.ScalametaParser.scala$meta$internal$parsers$ScalametaParser$$listBy(ScalametaParser.scala:555)
+	at scala.meta.internal.parsers.ScalametaParser.statSeq(ScalametaParser.scala:4228)
+	at scala.meta.internal.parsers.ScalametaParser.bracelessPackageStats$1(ScalametaParser.scala:4398)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$source$1(ScalametaParser.scala:4401)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:324)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:379)
+	at scala.meta.internal.parsers.ScalametaParser.source(ScalametaParser.scala:4366)
+	at scala.meta.internal.parsers.ScalametaParser.entrypointSource(ScalametaParser.scala:4404)
+	at scala.meta.internal.parsers.ScalametaParser.parseSourceImpl(ScalametaParser.scala:114)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$parseSource$1(ScalametaParser.scala:111)
+	at scala.meta.internal.parsers.ScalametaParser.parseRuleAfterBOF(ScalametaParser.scala:60)
+	at scala.meta.internal.parsers.ScalametaParser.parseRule(ScalametaParser.scala:55)
+	at scala.meta.internal.parsers.ScalametaParser.parseSource(ScalametaParser.scala:111)
+	at scala.meta.parsers.Parse$.$anonfun$parseSource$1(Parse.scala:30)
+	at scala.meta.parsers.Parse$$anon$1.apply(Parse.scala:37)
+	at scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionInputOffset.safeParse(ScalametaCommonEnrichments.scala:650)
+	at scala.meta.internal.parsing.Trees.$anonfun$parse$2(Trees.scala:224)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.parsing.Trees.parse(Trees.scala:215)
+	at scala.meta.internal.parsing.Trees.didChange(Trees.scala:171)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$parseTreesAndPublishDiags$2(MetalsLspService.scala:615)
+	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.scala:18)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:691)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:500)
+	... 3 more
+
+2026.01.16 14:47:00 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:00 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:00 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:00 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:00 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:00 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:01 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:00 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:01 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:01 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+1月 16, 2026 2:47:01 下午 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+嚴重: Internal error: java.lang.NullPointerException
+java.util.concurrent.CompletionException: java.lang.NullPointerException
+	at java.base/java.util.concurrent.CompletableFuture.wrapInCompletionException(CompletableFuture.java:323)
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:376)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:391)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:729)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:531)
+	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2221)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:40)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:38)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:517)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+	at java.base/java.lang.Thread.run(Thread.java:1474)
+Caused by: java.lang.NullPointerException
+
+2026.01.16 14:47:01 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:01 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:01 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:01 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:03 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:03 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:03 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:03 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+1月 16, 2026 2:47:03 下午 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 518
+2026.01.16 14:47:03 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:03 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:03 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:03 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:03 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:03 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:03 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:04 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:03 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:06 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:06 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:06 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:06 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:06 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:06 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:06 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:09 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:09 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:09 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:09 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:09 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:09 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:09 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:10 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:11 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:11 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:11 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:11 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:11 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:11 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:11 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:11 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:11 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:11 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:11 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:12 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:12 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:12 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:12 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:12 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:12 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:12 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+1月 16, 2026 2:47:13 下午 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 586
+2026.01.16 14:47:12 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+1月 16, 2026 2:47:13 下午 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 588
+2026.01.16 14:47:13 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:13 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:13 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:13 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:13 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:13 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:16 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:16 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:16 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:16 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:16 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:16 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:16 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:16 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:16 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:16 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:17 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:17 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:17 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:17 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:17 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:17 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:18 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:18 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:18 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:18 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:18 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:19 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:19 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:18 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:19 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:19 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:22 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:22 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:22 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:22 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:22 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:22 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:22 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:22 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:22 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:22 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:22 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:23 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:23 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:23 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:23 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:24 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:24 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:25 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:25 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:24 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:24 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:25 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:25 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:24 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:25 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:25 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:26 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:26 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:27 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:27 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:27 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:27 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:27 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:27 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:27 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:27 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:27 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:27 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:28 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:27 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:29 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:29 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:29 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:29 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:29 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:29 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+1月 16, 2026 2:47:29 下午 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 728
+2026.01.16 14:47:29 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:29 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:30 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:29 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:30 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:30 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:30 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:30 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:30 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:30 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:31 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:31 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:31 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:32 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:32 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:33 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:33 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:33 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:34 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:34 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:37 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:37 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:37 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:37 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:37 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:37 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:37 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:37 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:38 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:38 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:37 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:38 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:38 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:39 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:39 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:38 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:38 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:38 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:39 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:39 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:39 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:39 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:39 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:41 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:41 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:42 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:41 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:42 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+1月 16, 2026 2:47:42 下午 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 818
+2026.01.16 14:47:41 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:41 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:42 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:42 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:41 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:41 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:43 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:43 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:43 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:43 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:43 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:43 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:43 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:43 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:44 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:44 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:44 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:44 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:43 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:44 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:44 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:44 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:44 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:45 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:45 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:45 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:45 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:45 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:45 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:45 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:45 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:46 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:45 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:46 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:46 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:46 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:45 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:46 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:47 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:47 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:47 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:47 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:47 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:50 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:50 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:50 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:50 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:50 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:50 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:50 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:50 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:51 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:51 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:54 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:54 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:54 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:54 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:54 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:54 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:55 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:55 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:55 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:55 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:55 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:55 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:57 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:57 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:58 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:58 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:57 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:57 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:57 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:58 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:58 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:47:57 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:48:00 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:48:00 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:48:00 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:48:00 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:48:00 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:48:00 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:48:00 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:48:00 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:48:01 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:48:01 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:48:01 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:48:01 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:48:01 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:48:01 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:48:01 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:48:02 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:48:02 ERROR scalafmt: [3.10.0] C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala:7: error: [dialect scala3] `}` expected but `end of file` found
+  }
+   ^
+2026.01.16 14:48:03 WARN  no build target for: C:\Users\USER\Desktop\Verilog\Verilog\Scala\for_test.scala
+1月 16, 2026 2:48:09 下午 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 974
+2026.01.16 14:48:11 INFO  compiling verilog_d5c0a6989e (7 scala sources)
+2026.01.16 14:48:11 INFO  time: compiled Verilog_d5c0a6989e in 0.52s
+2026.01.16 14:49:01 INFO  compiling verilog_d5c0a6989e (7 scala sources)
+2026.01.16 14:49:01 INFO  time: compiled Verilog_d5c0a6989e in 0.6s
+1月 16, 2026 2:49:40 下午 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 1062
+2026.01.16 14:49:41 INFO  compiling verilog_d5c0a6989e (7 scala sources)
+2026.01.16 14:49:41 INFO  time: compiled Verilog_d5c0a6989e in 0.46s
+2026.01.16 14:50:07 INFO  compiling verilog_d5c0a6989e (7 scala sources)
+2026.01.16 14:50:07 INFO  time: compiled Verilog_d5c0a6989e in 0.57s
+1月 16, 2026 2:51:11 下午 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 1098
+2026.01.16 14:51:19 INFO  compiling verilog_d5c0a6989e (7 scala sources)
+2026.01.16 14:51:19 INFO  time: compiled Verilog_d5c0a6989e in 0.63s
+2026.01.16 14:51:24 INFO  compiling verilog_d5c0a6989e (7 scala sources)
+2026.01.16 14:51:24 INFO  time: compiled Verilog_d5c0a6989e in 0.44s
+2026.01.16 14:52:49 INFO  compiling verilog_d5c0a6989e (7 scala sources)
+2026.01.16 14:52:49 INFO  time: compiled Verilog_d5c0a6989e in 0.74s
+2026.01.16 14:54:07 WARN  No build server connected
+2026.01.16 14:54:07 INFO  compiling verilog_d5c0a6989e (7 scala sources)
+2026.01.16 14:54:07 INFO  time: compiled Verilog_d5c0a6989e in 0.62s
+2026.01.16 14:54:07 INFO  compiling verilog_d5c0a6989e (7 scala sources)
+2026.01.16 14:54:09 INFO  time: compiled Verilog_d5c0a6989e in 0.56s
+2026.01.16 14:54:44 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\basic\var.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:54:44 WARN  no build target for: C:\Users\USER\Desktop\Verilog\Verilog\Scala\basic\var.scala
+2026.01.16 14:54:44 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\basic\var.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:54:44 WARN  Could not find semantic tokens for: file:///C:/Users/USER/Desktop/Verilog/Verilog/Scala/basic/var.scala
+2026.01.16 14:54:44 INFO  no build target found for C:\Users\USER\Desktop\Verilog\Verilog\Scala\basic\var.scala. Using presentation compiler with project's scala-library version: 3.7.3
+2026.01.16 14:54:44 WARN  Could not find semantic tokens for: file:///C:/Users/USER/Desktop/Verilog/Verilog/Scala/basic/var.scala
+2026.01.16 14:54:44 WARN  No build server connected
+2026.01.16 14:54:44 INFO  compiling verilog_d5c0a6989e (8 scala sources)
+2026.01.16 14:54:44 INFO  time: compiled Verilog_d5c0a6989e in 0.4s
+2026.01.16 14:54:44 INFO  compiling verilog_d5c0a6989e (8 scala sources)
+2026.01.16 14:54:46 INFO  time: compiled Verilog_d5c0a6989e in 0.58s
+2026.01.16 14:58:40 INFO  Shutting down server
+2026.01.16 14:58:40 INFO  shutting down Metals
+2026.01.16 14:58:40 INFO  Shut down connection with build server.
+2026.01.16 14:58:40 INFO  Exiting server
