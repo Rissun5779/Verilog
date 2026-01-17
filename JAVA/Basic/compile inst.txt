@@ -1,0 +1,2 @@
+cd Basic
+javac -d out --module-source-path src src\basic\module-info.java src\basic\basic\Hello_Java.java

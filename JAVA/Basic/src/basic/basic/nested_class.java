@@ -1,3 +1,5 @@
+package basic;
+
 public class nested_class {
     public int publicA;
     protected int protectedA;
